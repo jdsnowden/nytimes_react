@@ -1,0 +1,17 @@
+h1 {
+    color: antiquewhite;
+    padding-top: 14px;
+}
+
+.jumbotron {
+background-color: navy;
+width: 80%;
+text-align: center;
+height: 20%;
+height: 100px;
+font-size: 23pt;
+margin: 123px;
+margin-top: -39px;
+box-shadow: 10px;
+margin-left: 149px
+}
